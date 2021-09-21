@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b1e2082660efea952311d0ff6d83ea9",
+    "revision": "fec2a0c345200159df3dbe815ac79797",
     "url": "/rubiowebsite/index.html"
   },
   {
-    "revision": "34ed9b12ac5c86f40637",
+    "revision": "fb348d459056f787a412",
     "url": "/rubiowebsite/static/css/main.cfc8501d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rubiowebsite/static/js/2.5e3f1f19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34ed9b12ac5c86f40637",
-    "url": "/rubiowebsite/static/js/main.0276e4ba.chunk.js"
+    "revision": "fb348d459056f787a412",
+    "url": "/rubiowebsite/static/js/main.b61335f7.chunk.js"
   },
   {
     "revision": "841cd8e43c380c88ccca",
