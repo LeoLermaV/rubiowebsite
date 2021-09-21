@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rubiowebsite/static/css/main.cfc8501d.chunk.css",
+    "main.js": "/rubiowebsite/static/js/main.0276e4ba.chunk.js",
+    "main.js.map": "/rubiowebsite/static/js/main.0276e4ba.chunk.js.map",
+    "runtime-main.js": "/rubiowebsite/static/js/runtime-main.41f9ecfb.js",
+    "runtime-main.js.map": "/rubiowebsite/static/js/runtime-main.41f9ecfb.js.map",
+    "static/js/2.5e3f1f19.chunk.js": "/rubiowebsite/static/js/2.5e3f1f19.chunk.js",
+    "static/js/2.5e3f1f19.chunk.js.map": "/rubiowebsite/static/js/2.5e3f1f19.chunk.js.map",
+    "index.html": "/rubiowebsite/index.html",
+    "precache-manifest.bd89802ad57917f99a528d4c3c59294b.js": "/rubiowebsite/precache-manifest.bd89802ad57917f99a528d4c3c59294b.js",
+    "service-worker.js": "/rubiowebsite/service-worker.js",
+    "static/css/main.cfc8501d.chunk.css.map": "/rubiowebsite/static/css/main.cfc8501d.chunk.css.map",
+    "static/js/2.5e3f1f19.chunk.js.LICENSE.txt": "/rubiowebsite/static/js/2.5e3f1f19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rubiowebsite/static/media/surgery.6b4430a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41f9ecfb.js",
+    "static/js/2.5e3f1f19.chunk.js",
+    "static/css/main.cfc8501d.chunk.css",
+    "static/js/main.0276e4ba.chunk.js"
+  ]
+}
