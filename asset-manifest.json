@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rubiowebsite/static/css/main.ffafb3f5.chunk.css",
-    "main.js": "/rubiowebsite/static/js/main.fa7eecbb.chunk.js",
-    "main.js.map": "/rubiowebsite/static/js/main.fa7eecbb.chunk.js.map",
+    "main.js": "/rubiowebsite/static/js/main.fe40dad3.chunk.js",
+    "main.js.map": "/rubiowebsite/static/js/main.fe40dad3.chunk.js.map",
     "runtime-main.js": "/rubiowebsite/static/js/runtime-main.62533062.js",
     "runtime-main.js.map": "/rubiowebsite/static/js/runtime-main.62533062.js.map",
     "static/js/2.8c10c369.chunk.js": "/rubiowebsite/static/js/2.8c10c369.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.62533062.js",
     "static/js/2.8c10c369.chunk.js",
     "static/css/main.ffafb3f5.chunk.css",
-    "static/js/main.fa7eecbb.chunk.js"
+    "static/js/main.fe40dad3.chunk.js"
   ]
 }
