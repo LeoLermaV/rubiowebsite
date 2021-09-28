@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/rubiowebsite/static/css/main.ffafb3f5.chunk.css",
-    "main.js": "/rubiowebsite/static/js/main.411120f0.chunk.js",
-    "main.js.map": "/rubiowebsite/static/js/main.411120f0.chunk.js.map",
+    "main.js": "/rubiowebsite/static/js/main.fa7eecbb.chunk.js",
+    "main.js.map": "/rubiowebsite/static/js/main.fa7eecbb.chunk.js.map",
     "runtime-main.js": "/rubiowebsite/static/js/runtime-main.62533062.js",
     "runtime-main.js.map": "/rubiowebsite/static/js/runtime-main.62533062.js.map",
-    "static/js/2.a54e285f.chunk.js": "/rubiowebsite/static/js/2.a54e285f.chunk.js",
-    "static/js/2.a54e285f.chunk.js.map": "/rubiowebsite/static/js/2.a54e285f.chunk.js.map",
+    "static/js/2.8c10c369.chunk.js": "/rubiowebsite/static/js/2.8c10c369.chunk.js",
+    "static/js/2.8c10c369.chunk.js.map": "/rubiowebsite/static/js/2.8c10c369.chunk.js.map",
     "index.html": "/rubiowebsite/index.html",
     "static/css/main.ffafb3f5.chunk.css.map": "/rubiowebsite/static/css/main.ffafb3f5.chunk.css.map",
-    "static/js/2.a54e285f.chunk.js.LICENSE.txt": "/rubiowebsite/static/js/2.a54e285f.chunk.js.LICENSE.txt",
+    "static/js/2.8c10c369.chunk.js.LICENSE.txt": "/rubiowebsite/static/js/2.8c10c369.chunk.js.LICENSE.txt",
     "static/media/App.css": "/rubiowebsite/static/media/surgery.91159ce9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.62533062.js",
-    "static/js/2.a54e285f.chunk.js",
+    "static/js/2.8c10c369.chunk.js",
     "static/css/main.ffafb3f5.chunk.css",
-    "static/js/main.411120f0.chunk.js"
+    "static/js/main.fa7eecbb.chunk.js"
   ]
 }
