@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rubiowebsite/static/css/main.81c82a89.chunk.css",
-    "main.js": "/rubiowebsite/static/js/main.e340617c.chunk.js",
-    "main.js.map": "/rubiowebsite/static/js/main.e340617c.chunk.js.map",
+    "main.css": "/rubiowebsite/static/css/main.ed9375f7.chunk.css",
+    "main.js": "/rubiowebsite/static/js/main.a4068d07.chunk.js",
+    "main.js.map": "/rubiowebsite/static/js/main.a4068d07.chunk.js.map",
     "runtime-main.js": "/rubiowebsite/static/js/runtime-main.62533062.js",
     "runtime-main.js.map": "/rubiowebsite/static/js/runtime-main.62533062.js.map",
     "static/js/2.016f6c54.chunk.js": "/rubiowebsite/static/js/2.016f6c54.chunk.js",
     "static/js/2.016f6c54.chunk.js.map": "/rubiowebsite/static/js/2.016f6c54.chunk.js.map",
     "index.html": "/rubiowebsite/index.html",
-    "static/css/main.81c82a89.chunk.css.map": "/rubiowebsite/static/css/main.81c82a89.chunk.css.map",
+    "static/css/main.ed9375f7.chunk.css.map": "/rubiowebsite/static/css/main.ed9375f7.chunk.css.map",
     "static/js/2.016f6c54.chunk.js.LICENSE.txt": "/rubiowebsite/static/js/2.016f6c54.chunk.js.LICENSE.txt",
     "static/media/App.css": "/rubiowebsite/static/media/rehab.b823fd99.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.62533062.js",
     "static/js/2.016f6c54.chunk.js",
-    "static/css/main.81c82a89.chunk.css",
-    "static/js/main.e340617c.chunk.js"
+    "static/css/main.ed9375f7.chunk.css",
+    "static/js/main.a4068d07.chunk.js"
   ]
 }
